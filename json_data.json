@@ -1,0 +1,11 @@
+{
+    "fiktive_zeit": "1861-03-21",
+    "wettervorhersage": {
+        "temperatur_vormittags": 16.1,
+        "zustand_vormittags": "Bewölkt",
+        "temperatur_nachmittags": 24.9,
+        "zustand_nachmittags": "Bewölkt",
+        "temperatur_nachts": 13.7,
+        "zustand_nachts": "Leichter Regen"
+    }
+}

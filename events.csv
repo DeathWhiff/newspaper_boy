@@ -1,0 +1,105 @@
+description,branche,impact,change
+Neue Fabrikeröffnung,industrie,very positive,20
+Produktionsengpass,industrie,negative,-10
+Patentstreit,industrie,very negative,-15
+Innovative Maschine eingeführt,industrie,very positive,30
+Zuliefererprobleme,industrie,negative,-10
+Technologischer Durchbruch,industrie,very positive,25
+Maschinenwartung notwendig,industrie,negative,-5
+Streik in der Produktion,industrie,very negative,-20
+Staatliche Subvention erhalten,industrie,positive,15
+Neue Produktionsstätte geplant,industrie,positive,10
+Partnerschaft mit Zulieferer,industrie,positive,5
+Fusion mit einem anderen Unternehmen,industrie,very positive,35
+Neues nachhaltiges Produktionsverfahren,industrie,very positive,30
+Logistikprobleme,industrie,negative,-10
+Produktionskosten steigen,industrie,negative,-15
+Nachfrageboom,industrie,very positive,20
+Erhöhung der Löhne,industrie,negative,-5
+Neue Robotik-Technologie,industrie,very positive,25
+Expansion ins Ausland,industrie,positive,10
+Rückrufaktion,industrie,very negative,-25
+Verbesserung der Produktionsqualität,industrie,positive,15
+Trendwende in der Mode,konsumgueter,very positive,20
+Neue Gesundheitsvorschriften,konsumgueter,negative,-5
+Werbekampagne gestartet,konsumgueter,positive,15
+Marktanteil verloren,konsumgueter,very negative,-15
+Erfolgreiches Produkt-Launch,konsumgueter,very positive,25
+Verbraucherboykott,konsumgueter,very negative,-20
+Preissteigerung,konsumgueter,negative,-10
+Neue Vertriebsstrategie,konsumgueter,positive,20
+Nachfrageboom durch Social Media,konsumgueter,very positive,30
+Fusion mit Einzelhandelskette,konsumgueter,very positive,25
+Neue Filialeröffnung,konsumgueter,positive,10
+Produktrückruf,konsumgueter,very negative,-25
+Verändertes Konsumverhalten,konsumgueter,negative,-5
+Saisonaler Nachfrageanstieg,konsumgueter,positive,10
+Starke Konkurrenz,konsumgueter,negative,-20
+Neue Verpackungstechnologie,konsumgueter,positive,10
+Regulierung im Markt verschärft,konsumgueter,negative,-15
+Produktinnovationen,konsumgueter,very positive,20
+Erhöhte Transportkosten,konsumgueter,negative,-10
+Neue Exportmärkte erschlossen,konsumgueter,positive,20
+Loyalitätsprogramm eingeführt,konsumgueter,positive,5
+Ölpreis steigt,energie,positive,15
+Umweltregulierung verschärft,energie,very negative,-20
+Neue Bohrquelle entdeckt,energie,very positive,25
+Investition in erneuerbare Energien,energie,very positive,30
+Wetterbedingte Produktionsausfälle,energie,negative,-10
+Neue Offshore-Plattform errichtet,energie,positive,20
+Umstellung auf umweltfreundlichere Verfahren,energie,very positive,30
+Nachhaltigkeitszertifikat erhalten,energie,positive,10
+Ölförderung gesenkt,energie,very negative,-20
+Energieversorgungskrise,energie,very negative,-30
+Preisregulierung durch Regierung,energie,negative,-25
+Neue Pipeline eröffnet,energie,positive,15
+Wettbewerbsdruck durch erneuerbare Energien,energie,negative,-10
+Fusion zweier Energieunternehmen,energie,positive,20
+Investition in Batteriespeicher,energie,very positive,25
+Strompreise stark gestiegen,energie,positive,15
+Sicherheitspannen in Raffinerie,energie,very negative,-20
+Regierungsförderung für grünen Wasserstoff,energie,very positive,25
+Ölreserven entdeckt,energie,positive,20
+Nutzung neuer Technologien in Energiegewinnung,energie,positive,20
+Neues Medikament zugelassen,pharma,very positive,25
+Patent abgelaufen,pharma,negative,-15
+Forschungserfolg,pharma,very positive,20
+Produktionsrückruf,pharma,very negative,-30
+Neue Kooperation mit Universität,pharma,positive,15
+Zulassung in neuem Markt erhalten,pharma,very positive,25
+Pharmaunternehmen fusionieren,pharma,very positive,30
+Hohe Nachfrage nach Medikamenten,pharma,positive,20
+Lieferengpässe bei wichtigen Wirkstoffen,pharma,negative,-20
+Erhöhung der Forschungsausgaben,pharma,positive,10
+Gesundheitsministerium ändert Vorschriften,pharma,negative,-15
+Arzneimittelpreise reguliert,pharma,negative,-10
+Neue Impfstofftechnologie,pharma,very positive,30
+Erfolgreiche klinische Studie,pharma,very positive,25
+Patentverlängerung gewährt,pharma,very positive,20
+Öffentlichkeitskritik an Medikamentenpreisen,pharma,negative,-20
+Expansion in neue Märkte,pharma,very positive,30
+Regierungsauftrag für Medikamente erhalten,pharma,positive,20
+Nachfrage nach Generika steigt,pharma,positive,10
+Innovative Behandlungsmethode vorgestellt,pharma,very positive,25
+Zusammenarbeit mit Biotech-Startup,pharma,positive,15
+Zinssätze gesenkt,finanzen,positive,15
+Fusion angekündigt,finanzen,very positive,25
+Regulatorische Probleme,finanzen,very negative,-20
+Aktienrückkauf geplant,finanzen,positive,10
+Bankgeheimnis gelockert,finanzen,negative,-10
+Wirtschaftsaufschwung treibt Finanzmärkte,finanzen,very positive,30
+Digitale Währung eingeführt,finanzen,very positive,20
+Neue Investmentstrategie erfolgreich,finanzen,very positive,25
+Kreditvergabe angezogen,finanzen,positive,15
+Zinsanhebung durch Zentralbank,finanzen,negative,-15
+Hackerangriff auf Bank,finanzen,very negative,-25
+Neue Finanzprodukte eingeführt,finanzen,positive,10
+Kapitalerhöhung angekündigt,finanzen,very positive,20
+Börsengang erfolgreich,finanzen,very positive,30
+Steuervorschriften verändert,finanzen,negative,-15
+Bankenfusion in Verhandlung,finanzen,positive,25
+Investment in Krypto-Assets,finanzen,positive,10
+Inflationsangst beeinflusst Märkte,finanzen,negative,-20
+Bessere Quartalszahlen als erwartet,finanzen,positive,20
+Neue Kooperation mit Zahlungsdienstleister,finanzen,positive,10
+Fitch Ratings setzt Unternehmen herab,finanzen,very negative,-25

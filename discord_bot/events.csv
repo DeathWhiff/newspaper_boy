@@ -1,0 +1,108 @@
+description,branche,impact,change
+Neue Fabriken eröffnet,industrie,very positive,20
+Produktionsengpass aufgrund von Maschinenausfällen,industrie,negative,-10
+Patentstreit um mechanische Spinnmaschine,industrie,very negative,-15
+Neue Dampfmaschine in England eingeführt,industrie,very positive,30
+Probleme mit Rohstofflieferanten,industrie,negative,-10
+Erfindung einer neuen Webmaschine,industrie,very positive,25
+Maschinen müssen gewartet werden,industrie,negative,-5
+Arbeiterstreik in der Textilfabrik,industrie,very negative,-20
+Stahl wird aus Deutschland geliefert,industrie,positive,15
+Kohle wird billiger,industrie,positive,15
+Subventionen von der Regierung für neue Maschinen,industrie,positive,15
+Neue Fabriken wurden angekündigt,industrie,positive,10
+Partnerschaft mit einem Rohstofflieferanten,industrie,positive,5
+Fusion mit einer anderen Textilfabrik,industrie,very positive,35
+Mehr Zufuhr an Rohstoffen aus Kolonien,industrie,very positive,30
+Probleme mit Transportwegen,industrie,negative,-10
+Produktionskosten steigen durch steigende Rohstoffpreise,industrie,negative,-15
+Erfindung der Arbeitshandschuhe,industrie,very positive,15
+Erhöhung der Löhne für Arbeiter,industrie,negative,-5
+Neue Maschinen zur Textilproduktion,industrie,very positive,25
+Expansion ins Ausland in europäische Märkte,industrie,positive,10
+Rückruf von fehlerhaften Maschinen,industrie,very negative,-25
+Verbesserung der Arbeitsqualität,industrie,positive,15
+Giftige Dämpfe legen das Staatskohlekraftwerk lahm,industrie,very negative,-25
+Nachfrage nach Textilien steigt,konsumgueter,very positive,20
+Neue Gesundheitsvorschriften für Lebensmittelproduktion,konsumgueter,negative,-5
+Werbung für neue Produktlinien gestartet,konsumgueter,positive,15
+Verlust von Marktanteilen im Textilsektor,konsumgueter,very negative,-15
+Erfolgreicher Launch einer neuen Textilkollektion,konsumgueter,very positive,25
+Verbraucher boykottieren Fabrikprodukte,konsumgueter,very negative,-20
+Preissteigerung bei Stoffen,konsumgueter,negative,-10
+Neue Vertriebskanäle für Textilprodukte,konsumgueter,positive,20
+Boom der Nachfrage durch industrielle Revolution im Nahrungsmittelsektor,konsumgueter,very positive,30
+Fusion mit einer großen Einzelhandelskette,konsumgueter,very positive,25
+Eröffnung eines neuen Verkaufsmarktes in der Stadt,konsumgueter,positive,10
+Produktrückruf bei schlechter Textilqualität,konsumgueter,very negative,-25
+Verändertes Konsumverhalten in städtischen Gebieten,konsumgueter,negative,-5
+Saisonale Nachfrage nach Winterkleidung,konsumgueter,positive,10
+Starke Konkurrenz durch neue Fabriken,konsumgueter,negative,-20
+Neue Verpackungsmethoden für Textilien,konsumgueter,positive,10
+Zollvorschriften für Textilimporte verschärft,konsumgueter,negative,-15
+Produktinnovationen im Bereich Bekleidung,konsumgueter,very positive,20
+Transportkosten steigen durch schlechte Infrastruktur,konsumgueter,negative,-10
+Neue Exportmärkte für Textilien erschlossen,konsumgueter,positive,20
+Einführung von Kundenbindungsprogrammen,konsumgueter,positive,5
+Steinkohlepreis steigt,energie,positive,15
+Regulierung zur Kohlenutzung verschärft,energie,very negative,-20
+Neue Kohlenbergwerke entdeckt,energie,very positive,25
+Investition in Dampfkraftwerke,energie,very positive,30
+Wetterbedingte Unterbrechung der Kohlenförderung,energie,negative,-10
+Bau einer neuen Dampfkraftanlage,energie,positive,20
+Umstellung auf effizientere Maschinen,energie,very positive,30
+Zertifikate für qualitativ hochwertige Kohlenförderung erhalten,energie,positive,10
+Sinkende Kohlenproduktion,energie,very negative,-20
+Energiekrise durch Kohlenmangel,energie,very negative,-30
+Preisregulierung durch die Regierung,energie,negative,-25
+Neue Eisenbahnlinie für Kohlelieferung eröffnet,energie,positive,15
+Wettbewerb durch alternative Energiequellen wächst,energie,negative,-10
+Fusion zweier Bergbauunternehmen,energie,positive,20
+Investition in Dampflokomotiven,energie,very positive,25
+Kohlenpreise stark gestiegen,energie,positive,15
+Unfall in einer Stahlwerkstatt,energie,very negative,-20
+Förderung von erneuerbaren Energiequellen durch die Regierung,energie,very positive,25
+Neue Kohlevorkommen entdeckt,energie,positive,20
+Neue Technologien in der Kohlenverstromung,energie,positive,20
+Neues Medikament gegen Tuberkulose entwickelt,pharma,very positive,25
+Patent abgelaufen für Heilmittel,pharma,negative,-15
+Durchbruch in der medizinischen Forschung,pharma,very positive,20
+Produktionsrückruf aufgrund von Fehlern,pharma,very negative,-30
+Neue Partnerschaft mit medizinischen Forschungsinstituten,pharma,positive,15
+Zulassung für neue Schmerzmittel in Mitteleuropa,pharma,very positive,25
+Pharmaunternehmen fusionieren,pharma,very positive,30
+Hohe Nachfrage nach Medikamenten während Epidemien,pharma,positive,20
+Lieferengpässe bei medizinischen Rohstoffen,pharma,negative,-20
+Erhöhung der Forschungsausgaben für neue Heilmittel,pharma,positive,10
+Regierung führt neue Vorschriften für Medikamente ein,pharma,negative,-15
+Preisregulierung für Medikamente,pharma,negative,-10
+Neue Entdeckung von Impfstoffen gegen Krankheiten,pharma,very positive,30
+Erfolgreiche klinische Studie für neues Medikament,pharma,very positive,25
+Patentverlängerung für wichtiges Medikament,pharma,very positive,20
+Kritik an den hohen Preisen für Medikamente,pharma,negative,-20
+Expansion in neue Märkte wie Amerika,pharma,very positive,30
+Regierungsauftrag für die Lieferung von Medikamenten,pharma,positive,20
+Erste Impfungen durchgeführt,pharma,positive,10
+Neue Behandlungsmethoden für schwerwiegende Krankheiten vorgestellt,pharma,very positive,25
+Kooperation mit Biotech-Unternehmen zur Forschung,pharma,positive,15
+"Zinssätze sinken, Kredite werden günstiger",finanzen,positive,15
+Fusion von zwei großen Banken angekündigt,finanzen,very positive,25
+Regulatorische Probleme im Bankensektor,finanzen,very negative,-20
+Erstes Aktienunternehmen,finanzen,positive,10
+Bankenpolitik gelockert,finanzen,negative,-10
+Wirtschaftlicher Aufschwung fördert Finanzmärkte,finanzen,very positive,30
+Neue Papierwährung eingeführt,finanzen,very positive,20
+Neue Anlagestrategien erfolgreich,finanzen,very positive,25
+Kreditvergabe nimmt zu,finanzen,positive,15
+Zinserhöhung durch die Zentralbank,finanzen,negative,-15
+Steigende Banküberfälle auf Banken,finanzen,very negative,-25
+Neue Finanzprodukte für Fabriken eingeführt,finanzen,positive,10
+Kapitalerhöhung durch Bank im Aufschwung,finanzen,very positive,20
+Erfolgreicher Börsengang einer Bank,finanzen,very positive,30
+Steuergesetzgebung verändert,finanzen,negative,-15
+Bankenfusion in Verhandlung,finanzen,positive,25
+Investitionen in Kohlenminen und Maschinen,finanzen,positive,10
+Geld verliert an Wert,finanzen,negative,-20
+Bessere Quartalszahlen als erwartet,finanzen,positive,20
+Neue Kooperation mit Zahlungssystemen,finanzen,positive,10
+Großer Brandt im Bankenviertel,finanzen,very negative,-25

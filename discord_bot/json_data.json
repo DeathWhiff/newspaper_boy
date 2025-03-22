@@ -1,0 +1,11 @@
+{
+    "fiktive_zeit": "1861-01-17",
+    "wettervorhersage": {
+        "temperatur_vormittags": 2.3,
+        "zustand_vormittags": "Sonnig",
+        "temperatur_nachmittags": 8.3,
+        "zustand_nachmittags": "Sonnig",
+        "temperatur_nachts": -3.6,
+        "zustand_nachts": "Kalt"
+    }
+}
